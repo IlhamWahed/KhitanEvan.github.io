@@ -1,0 +1,21 @@
+body {
+  background-image: url("image/weather.png");
+}
+
+@font-face {
+  font-family: fa;
+  src: url("Pacifico-Regular.ttf");
+}
+.gfont {
+  font-family: fa;
+  color: orange;
+}
+
+@font-face {
+  font-family: ba;
+  src: url("Lexend-VariableFont_wght.ttf");
+}
+
+.gfont1 {
+  font-family: ba;
+}
